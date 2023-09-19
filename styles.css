@@ -3,6 +3,9 @@
 th{
 	background-color:red;
 	color:white;
+	border-color:black;
+	border-style:solid;
+	border-collapse:collapse;
 }
 #box1{
 	background-color:hotpink;
