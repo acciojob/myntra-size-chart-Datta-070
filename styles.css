@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+th{
+	background-color:red;
+	color:white;
+}
+#box1{
+	background-color:hotpink;
+	color:white;
+}
+#box2{
+	background-color:peachpuff;
+	color:black;
+}
+#box3{
+	background-color:lightgreen;
+	color:black;
+}
